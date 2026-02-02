@@ -1,1 +1,2 @@
-Practicing html and css for MERN. (Beginner)
+Practicing and learning html-css by making projects. (Beginner)
+1st -Youtube clone (In Progress)
